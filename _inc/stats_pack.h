@@ -5,7 +5,6 @@
 
 namespace Stats
 {
-
     class stats_pack
     {
         u64 min;

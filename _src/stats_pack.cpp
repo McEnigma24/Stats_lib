@@ -2,7 +2,6 @@
 
 namespace Stats
 {
-
     stats_pack::stats_pack()
     {
         min = -1; // max for uint
